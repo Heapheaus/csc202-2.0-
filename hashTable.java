@@ -35,6 +35,5 @@ public class hashTable {
             System.out.print("key is: " + mentry.getKey() + " & Value is: ");
             System.out.println(mentry.getValue());
         }
-        //test
     }
 }
